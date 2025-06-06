@@ -1,0 +1,13 @@
+{
+  "name": "vision-empower-lab",
+  "version": "1.0.0",
+  "description": "Official website for Vision Empower Research Lab",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "start": "open index.html"
+  },
+  "keywords": ["research", "vision", "ai", "machine-learning", "computer-vision"],
+  "author": "Vision Empower Lab",
+  "license": "MIT"
+}
